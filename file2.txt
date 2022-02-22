@@ -1,1 +1,3 @@
 info in file 2
+
+adding something to file 2
